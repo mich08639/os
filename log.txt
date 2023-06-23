@@ -1,0 +1,22 @@
+Elevator 1: Moving from floor 0 to floor 1
+Elevator 1: Arrived at floor 1
+Elevator 1: Moving from floor 1 to floor 2
+Elevator 1: Arrived at floor 2
+Elevator 1: Moving from floor 2 to floor 3
+Elevator 1: Arrived at floor 3
+Elevator 1: Moving from floor 3 to floor 4
+Elevator 1: Arrived at floor 4
+Elevator 1: Moving from floor 4 to floor 5
+Elevator 1: Arrived at floor 5
+Elevator 2: Moving from floor 0 to floor 0
+Elevator 2: Arrived at floor 0
+Elevator 1: Moving from floor 5 to floor 6
+Elevator 1: Arrived at floor 6
+Elevator 2: Moving from floor 0 to floor 1
+Elevator 2: Arrived at floor 1
+Elevator 1: Moving from floor 6 to floor 7
+Elevator 1: Arrived at floor 7
+Elevator 2: Moving from floor 1 to floor 1
+Elevator 2: Arrived at floor 1
+Elevator 1: Moving from floor 7 to floor 7
+Elevator 1: Arrived at floor 7
