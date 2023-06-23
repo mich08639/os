@@ -31,10 +31,6 @@ class Ascensor implements Runnable {
             while (!Thread.currentThread().isInterrupted()) {
                 Solicitud solicitud = solicitudes.take();
                 int pisoDestino = solicitud.getPisoDestino();
-                 
-        if (lugaresDeDetencion.contains(pisoActual)) {
-            System.out.println("Ascensor " + id + " Cumplio con una solicitud de paso en en piso" + pisoActual);
-        } 
                 System.out.println("Ascensor " + id + " está en el piso " + pisoActual);
                 moverAscensor(pisoDestino);
                 System.out.println("Ascensor " + id + " ha llegado al piso " + pisoActual);
